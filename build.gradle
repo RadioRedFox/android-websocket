@@ -23,6 +23,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 
 group='com.github.RadioRedFox'
 
+
 android {
     compileSdkVersion 33
 
@@ -30,7 +31,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 33
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.1"
     }
 
     compileOptions {
